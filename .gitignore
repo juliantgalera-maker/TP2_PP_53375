@@ -1,0 +1,21 @@
+# Compilados de Java
+*.class
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+
+# Archivos de datos generados en tiempo de ejecución (Persistencia del TP)
+*.dat
+
+# Archivos del sistema y logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuración de IntelliJ (Opcional si trabajas en equipo con el mismo IDE)
+out/
+target/
+.idea/workspace.xml
+.idea/shelf/
